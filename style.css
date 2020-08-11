@@ -1,0 +1,16 @@
+#shape{
+				height:200px;
+				width:200px;
+				background-color:red;
+				display=none;
+				position:relative;
+				}
+			.body{
+				font-family:sans-serif;
+				}
+			.bold{
+				font-weight:bold;
+				}
+			.size{
+				font-size:150%;
+				}
